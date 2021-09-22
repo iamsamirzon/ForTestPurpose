@@ -18,4 +18,4 @@ At this time, the NotaryV2 community is working on two separate sub projects, TU
 
 ## Getting Involved
 
-Please file [GitHub issues](https://github.com/orgs/notaryproject/notaryproject/issues) to propose features and identify bugs. See more information about how to get involved with the community [here](https://github.com/orgs/notaryproject/).
+Please file [GitHub issues](https://github.com/notaryproject/notaryproject/issues) to propose features and identify bugs. See more information about how to get involved with the community [here](https://github.com/notaryproject).
