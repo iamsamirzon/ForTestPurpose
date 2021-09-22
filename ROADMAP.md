@@ -7,11 +7,11 @@ At this time, the NotaryV2 community is working on two separate sub projects, TU
 
 ### Current (Short term) Focus
 - Putting Alpha Release(s) out of Notation for early feedback and testing.
-- Iterate on the Notary V2 specfication for the first GA Release
+- Iterate on the Notary V2 specfications for the first GA Release
 - Collaborate with other open source projects for co-related/depdendent features needed for end to end use case of OCI artifacts signing
 
 ### Future (Mid to Long term) Focus
-- Release the first [GA version of the Notary V2 Specfication and Notation Client](https://github.com/iamsamirzon/ForTestPurpose/projects/1)
+- Release the first [GA version of the Notary V2 Specfication and Notation](https://github.com/iamsamirzon/ForTestPurpose/projects/1)
 - Iterate on supporting additonal signature formats in the specfication
 - Support Revocation in the Notation Client
 
