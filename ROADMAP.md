@@ -6,7 +6,7 @@ The Notary V2 team uses the [Roadmap GitHub Project Board](https://github.com/or
 At this time, the NotaryV2 community is working on two separate sub projects, TUF and Notation. This roadmap is focussed on the Notation aspect
 
 ### Current (Short term) Focus
-- Putting an Alpha Release out of Notation for early feedback and testing
+- Putting Alpha Release(s) out of Notation for early feedback and testing.
 - Iterate on the Notary V2 specfication for the first GA Release
 - Collaborate with other open source projects for co-related/depdendent features needed for end to end use case of OCI artifacts signing
 
